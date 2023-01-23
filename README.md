@@ -4,7 +4,6 @@
 
 I am a passionate junior data analyst with a strong background in **SQL**, **Tableau**, **Python**, and **Spreadsheets**. I have created relevant projects using these tools, and I am continually working to improve my skills. I am eager to apply my knowledge and experience in an entry-level Data Analyst role, where I can make a meaningful impact and continue to learn and grow in the field.
 
-- [Tableau dashboards](https://public.tableau.com/app/profile/wassimmkhad){:target="_blank"}
-
-
-<p>Welcome to <a href="https://wordpress.org/" target="_blank">WordPress</a>
+- [Tableau dashboards](https://public.tableau.com/app/profile/wassimmkhad)
+- [LinkedIn](https://www.linkedin.com/in/wassim-mkhad)
+- Email: wassim.amw@gmail.com
