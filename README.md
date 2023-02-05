@@ -8,7 +8,7 @@ Right now I am Currently focusing on building more projects to further expand my
 
 I spend the last year developing my data skills by taking data courses such as Google data analysis certification where I learned the fundamentals of data and then I took some more advanced courses to improve my technical skills, as I progressed in my learning journey I was drawn to the data field and decided to pursue a full-time career in data analytics
 
-- Check my project in the [Portfolio Repository](https://github.com/wassim-mkhad/Portfolio)
+- Check my projects in the [Portfolio Repository](https://github.com/wassim-mkhad/Portfolio)
 - [Tableau dashboards](https://public.tableau.com/app/profile/wassimmkhad)
 - [LinkedIn](https://www.linkedin.com/in/wassim-mkhad)
 - Email: wassim.amw@gmail.com
